@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">XBlurDialogFragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="activity_sample_blur_radius">Blur radius : </string>
+    <string name="activity_sample_down_scale_factor">Down Scale Factor : </string>
+    <string name="activity_sample_blur_debug">Debug enable</string>
+    <string name="activity_sample_blur_dimming">Dimming enable</string>
+    <string name="activity_sample_actionbar_blurred">Apply blur effect on action bar</string>
+    <string name="activity_sample_blur_userendercript">Use RenderScript if possible</string>
+</resources>
